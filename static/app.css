@@ -129,3 +129,12 @@ video {
     cursor: pointer;
     position: relative;
 }
+.siteurl {
+    color: #fff;
+    background: #000000;
+    border-radius: 0.25rem;
+    font-size: 14px;
+    display: inline-block;
+    padding: 0 5px;
+    line-height: 30px;
+}
