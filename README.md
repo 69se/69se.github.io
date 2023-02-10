@@ -1,7 +1,7 @@
 # 69色网址发布
 
 ### 国内访问网址
-最新网址1：<https://www.69se.net>
+最新网址1：<https://www.69se.org>
 
 最新网址2：<https://www.69se.vip>
 
