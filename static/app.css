@@ -115,7 +115,7 @@ video {
 }
 
 .link_content .btn {
-    width: 40%;
+    width: 50%;
     max-width: 170px;
     height: 45px;
     line-height: 45px;
@@ -129,6 +129,15 @@ video {
     cursor: pointer;
     position: relative;
 }
+
+.link_content .btn .a1{
+    color: #e0b585;
+}
+
+.link_content .btn .a2{
+    color: #62ff00;
+}
+
 .siteurl {
     color: #fff;
     background: #000000;
