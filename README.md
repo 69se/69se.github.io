@@ -9,3 +9,6 @@
 
 ### 海外永久网址
 69SE.TV：<https://www.69se.tv>
+
+### 69色最新地址发布页
+<69se.github.io>
