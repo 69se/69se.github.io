@@ -3,7 +3,12 @@
 ### 69色最新地址发布页
 <https://69se.github.io>
 
+<https://69se.netlify.app>
+
 <https://69se.pages.dev>
+
+<https://liujiuse.web.app>
+
 
 ### 海外永久网址
 69SE.TV：<https://www.69se.tv>
