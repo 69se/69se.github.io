@@ -1,4 +1,4 @@
-# 六九色网址发布 <https://69se.github.io/news/>
+# 六九色网址最新发布
 
 ### 69色最新地址发布页
 <https://69se.github.io>
