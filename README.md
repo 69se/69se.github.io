@@ -19,4 +19,4 @@
 
 
 ### TG电报
-[@sixninese](https://t.me/sixninese)
+[@sixninese](https://t.me/sixninese){target="_blank"}
