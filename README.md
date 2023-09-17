@@ -17,6 +17,8 @@
 
 69SE.ORG：<https://www.69se.org>
 
+69SE.SITE：<https://www.69se.site>
+
 
 ### TG电报
 [@sixninese](https://t.me/sixninese)
