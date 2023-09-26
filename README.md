@@ -17,7 +17,15 @@
 
 69SE.ORG：<https://www.69se.org>
 
+
+### 国内最新网址
 69SE.SITE：<https://www.69se.site>
+
+69SE.BUZZ：<https://www.69se.buzz>
+
+69SE.LIFE：<https://www.69se.life>
+
+69SE.LIVE：<https://www.69se.live>
 
 
 ### TG电报
