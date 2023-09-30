@@ -24,7 +24,7 @@
 
 69SE.BUZZ：<https://www.69se.buzz>
 
-69SE.LIFE：<https://www.69se.life>
+69SE.CO：<https://www.69se.co>
 
 69SE.LIVE：<https://www.69se.live>
 
